@@ -8,7 +8,7 @@
 [3. Acceptance Criteria](#Acceptance-Criteria)  
 [4. Deployed Application](#Deployed-Application)  
 [5. Installation](#Installation)  
-[6. Tests](#Tests)  
+[6. Screenshot](#Screenshot)  
 [7. License Details](#License-Details)  
 [8. Submission](#Submission)   
 [9. Questions](#Questions)  
@@ -50,7 +50,7 @@ This repo is not to be deployed, if you wanted to, you could by doing the follow
 ```
 5. Open Insomnia Core to test API routes
 
-## Tests:  
+## Screenshot:  
 Insomnia can be used to test the data with the GET or POST request.
 ## License Details: 
  This project is under no license.  
