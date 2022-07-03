@@ -30,7 +30,7 @@ A Full-Stack mobile-first progressive web application that allows users to track
 
 
 ## Deployed Application:
-[Heroku Deployment]()  
+[Heroku Deployment](https://pwa-budget-tracker-vshepard879.herokuapp.com/)  
 
 
 ## Installation:
@@ -51,7 +51,7 @@ This repo is not to be deployed, if you wanted to, you could by doing the follow
 5. Open Insomnia Core to test API routes
 
 ## Screenshot:  
-Insomnia can be used to test the data with the GET or POST request.
+![ScreenShot](./public/images/screenshot%20(3).png)
 ## License Details: 
  This project is under no license.  
 
